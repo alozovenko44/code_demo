@@ -8,7 +8,7 @@
 <br />
 **Sreenshot:**
 <br />
-![alt text](./images/img_1.png)
+<img src="./images/img_1.png" width="300"/>
 <br />
 
 
