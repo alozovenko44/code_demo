@@ -1,11 +1,19 @@
 **About project:** MXNEY - The first financial operator to centralize all financial services for ecommerce.
-**Tech Stack:** TypeScript,  JavaScript, HTML & CSS, Git, ES6, Git-flow, ReactJS, recharts, Emotion (css)
+<br />
+<br />
+**Tech Stack:** _TypeScript,  JavaScript, HTML & CSS, Git, ES6, Git-flow, ReactJS, recharts, Emotion (css)_
+<br />
 
-**Code example:** ![alt text](./CircleIconWrapper.tsx)
-**Sreenshot:** 
-![alt text](./images/img_1.png)
-
-
-**Code example:** ![alt text](./MultiChartComponent.tsx)
+**Code example:** ./CircleIconWrapper.tsx
+<br />
 **Sreenshot:**
+<br />
+![alt text](./images/img_1.png)
+<br />
+
+
+**Code example:** ./MultiChartComponent.tsx
+<br />
+**Sreenshot:**
+<br />
 ![alt text](./images/img_2.png)
